@@ -1,0 +1,6 @@
+#container img:hover {
+    width: 300px;
+}
+#container strong:hover {
+    color: darkgrey;
+}
